@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Funniest Time Machine Warning Label — make.fun entry.
 
-A warning label for a time machine, phrased like a genuine safety notice — until the last words, when your older self shows up with a grudge and decades of rehearsal time.
+The label stays deadpan-official while the punchline lands at the end: your future self is not a stranger, he is a witness with a grudge — and he has had decades to rehearse this exact moment.
 """
 import os
 
-ENTRY = 'WARNING: Do not meet yourself. He knows what you did, and he has had years to plan this conversation.'
+ENTRY = 'WARNING: Never wave at yourself. He remembers this moment, he is still angry, and he has had decades to rehearse it.'
 
 
 def main() -> None:
